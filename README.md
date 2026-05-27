@@ -96,14 +96,7 @@ same directory as the notebook or paths adjusted accordingly.
 
 If you use this code or data in your own research, please cite:
 
-Mansour, S. (2026) 'Beyond Prediction: Machine Learning,
-Adaptation Finance, and the Governance of Climate-Driven
-Internal Displacement', in *Advancing the Environmental SDGs
-Through Science, Law and Data*. London: Taylor & Francis /
-Routledge.
-
-**SMM303 (2026) “SMM303/Displacement-Analysis-: Version 1.0 — Chapter Submission Release”. Zenodo. doi:10.5281/zenodo.20414956.**
----
+Mansour, S. (2026) Displacement Analysis: Machine Learning and Humanitarian Risk (Version 1.0) [Software and Data]. Zenodo. doi:10.5281/zenodo.20414956. Available at: https://doi.org/10.5281/zenodo.20414956 (Accessed: 27 May 2026).
 
 ## License
 
