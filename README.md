@@ -102,6 +102,7 @@ Internal Displacement', in *Advancing the Environmental SDGs
 Through Science, Law and Data*. London: Taylor & Francis /
 Routledge.
 
+**SMM303 (2026) “SMM303/Displacement-Analysis-: Version 1.0 — Chapter Submission Release”. Zenodo. doi:10.5281/zenodo.20414956.**
 ---
 
 ## License
